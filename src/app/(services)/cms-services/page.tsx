@@ -74,53 +74,53 @@ export default function CmsServices() {
   );
 }
 
-const projects = [
-  {
-    bg: 'https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&q=80',
-    visitProject: '',
-    details: '',
-  },
-  {
-    bg: 'https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&q=80',
-    visitProject: '',
-    details: '',
-  },
-  {
-    bg: 'https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&q=80',
-    visitProject: '',
-    details: '',
-  },
-];
+// const projects = [
+//   {
+//     bg: 'https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&q=80',
+//     visitProject: '',
+//     details: '',
+//   },
+//   {
+//     bg: 'https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&q=80',
+//     visitProject: '',
+//     details: '',
+//   },
+//   {
+//     bg: 'https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&q=80',
+//     visitProject: '',
+//     details: '',
+//   },
+// ];
 
-const Projects = () => {
-  return (
-    <div className='grid grid-cols-1 sm:grid-cols-2 gap-10 mt-20 justify-items-center px-4'>
-      {projects.map((c, i) => (
-        <div key={i} className='relative group overflow-hidden rounded-lg'>
-          <div className='absolute inset-0 group-hover:bg-black/50 group-hover:z-10' />
+// const Projects = () => {
+//   return (
+//     <div className='grid grid-cols-1 sm:grid-cols-2 gap-10 mt-20 justify-items-center px-4'>
+//       {projects.map((c, i) => (
+//         <div key={i} className='relative group overflow-hidden rounded-lg'>
+//           <div className='absolute inset-0 group-hover:bg-black/50 group-hover:z-10' />
 
-          <Image
-            src={c.bg}
-            width={500}
-            height={500}
-            alt='project-banner'
-            className='group-hover:scale-110 transition-transform duration-500'
-          />
+//           <Image
+//             src={c.bg}
+//             width={500}
+//             height={500}
+//             alt='project-banner'
+//             className='group-hover:scale-110 transition-transform duration-500'
+//           />
 
-          <div className='absolute inset-0 flex justify-center flex-col gap-4 items-center opacity-0 group-hover:opacity-100 z-20 w-[200px] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 max-h-min'>
-            <Link href={c.visitProject} className='w-full'>
-              <Button name='visit Project' className='w-full bg-white text-black hover:bg-white/90'>
-                Visit Project
-              </Button>
-            </Link>
-            <Link href={c.details} className='w-full'>
-              <Button name='details' className='w-full bg-white text-black hover:bg-white/90'>
-                Details
-              </Button>
-            </Link>
-          </div>
-        </div>
-      ))}
-    </div>
-  );
-};
+//           <div className='absolute inset-0 flex justify-center flex-col gap-4 items-center opacity-0 group-hover:opacity-100 z-20 w-[200px] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 max-h-min'>
+//             <Link href={c.visitProject} className='w-full'>
+//               <Button name='visit Project' className='w-full bg-white text-black hover:bg-white/90'>
+//                 Visit Project
+//               </Button>
+//             </Link>
+//             <Link href={c.details} className='w-full'>
+//               <Button name='details' className='w-full bg-white text-black hover:bg-white/90'>
+//                 Details
+//               </Button>
+//             </Link>
+//           </div>
+//         </div>
+//       ))}
+//     </div>
+//   );
+// };

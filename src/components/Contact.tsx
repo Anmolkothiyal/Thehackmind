@@ -72,7 +72,7 @@ const Contact = () => {
           Contact Us
         </h2>
         <p className="text-center text-gray-600 mt-2">
-          We'd love to hear from you! Fill out the form below, and we'll get back to you shortly.
+          We&apos;d love to hear from you! Fill out the form below, and we&apos;ll get back to you shortly.
         </p>
 
         <Form {...form}>
