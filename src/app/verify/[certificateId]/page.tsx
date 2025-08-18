@@ -62,9 +62,7 @@ export default async function CertificateVerifyPage({
             <div className="text-center mb-8">
               <div className="w-24 h-24 bg-gray-300 rounded-full mx-auto mb-4 overflow-hidden">
                 <img
-                  src={`/intern/images/IMGINT2025${certificateId.slice(
-                    -5
-                  )}.jpg`}
+                  src={`/intern/images/IMG${certificateId}.jpg`}
                   alt={`Profile of ${certificate.Name}`}
                   className="w-full h-full object-cover"
                 />
@@ -148,9 +146,7 @@ export default async function CertificateVerifyPage({
               {/* Certificate PDF as Image Display */}
               <div className="bg-white border border-gray-200 rounded-lg overflow-hidden aspect-[3/4] mb-4">
                 <iframe
-                  src={`/intern/certificates/CERINT2025${certificateId.slice(
-                    -5
-                  )}.pdf`}
+                  src={`/intern/certificates/CER${certificateId}.pdf`}
                   className="w-full h-full"
                   title="Certificate PDF"
                 />

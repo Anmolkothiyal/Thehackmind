@@ -9,9 +9,7 @@ export default function CertificateActions({
   certificateId,
   certificateName,
 }: CertificateActionsProps) {
-  const pdfPath = `/intern/certificates/CERINT2025${certificateId.slice(
-    -5
-  )}.pdf`;
+  const pdfPath = `/intern/certificates/CER${certificateId}.pdf`;
 
   const handleViewCertificate = () => {
     // Open PDF in new window for full document view
