@@ -1,6 +1,5 @@
 import { Film, Scissors, Layers, Eye, ArrowRight, Shield } from 'lucide-react';
 import Image from 'next/image';
-import { Button } from '@/components/ui/button';
 import Link from 'next/link';
 import WhyChooseUs from '../WhyChooseUs';
 import { Metadata } from 'next';

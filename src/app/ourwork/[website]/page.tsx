@@ -8,9 +8,12 @@ export async function generateStaticParams() {
   }));
 }
 
-export default function OurWork({ params }: { params: { website: string } }) {
+export default async function OurWork({ params }: { params: Promise<{ website: string }> }) {
+  // Await the params since they're now a Promise in Next.js 15+
+  const { website } = await params;
+  
   // Find the data for the website based on the `website` param.
-  const data = ourWorkMap.find((el) => params.website === el.title);
+  const data = ourWorkMap.find((el) => website === el.title);
 
   // If no matching data is found, show an error.
   if (!data) {
