@@ -1,0 +1,54 @@
+[
+  {
+    "CertificateID": "INT2025LD375",
+    "Name": "ARYAN RANA",
+    "Internship Title": "Full-Stack Developer Internship",
+    "IssuedBy": "Livzone Design",
+    "Start Date": "1st May 2025",
+    "End Date": "31st July 2025",
+    "Skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB"
+    ],
+    "Verified On": "31/07/2025",
+    "Location": "Noida,UP,India",
+    "ProjectWork": "Worked on modern UI/UX designs and implemented responsive web components using React and Tailwind CSS."
+  },
+  {
+    "CertificateID": "INT2025LD271",
+    "Name": "BHUVNESH KUMAR",
+    "Internship Title": "Full-Stack Developer Internship",
+    "IssuedBy": "Livzone Design",
+    "Start Date": "1st May 2025",
+    "End Date": "31st July 2025",
+    "Skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB"
+    ],
+    "Verified On": "31/07/2025",
+    "Location": "Noida,UP,India",
+    "ProjectWork": "Developed full-stack applications with REST APIs, integrated MongoDB for database management, and optimized backend services using Express.js."
+  },
+  {
+    "CertificateID": "INT2025LD74",
+    "Name": "RAJ RATAN SINGH",
+    "Internship Title": "Web Developer Internship",
+    "IssuedBy": "Livzone Design",
+    "Start Date": "1st May 2025",
+    "End Date": "31st July 2025",
+    "Skills": ["HTML", "CSS", "JavaScript"],
+    "Verified On": "31/07/2025",
+    "Location": "Noida,UP,India",
+    "ProjectWork": "Built responsive static websites and enhanced user experience by implementing interactive features with vanilla JavaScript."
+  }
+]
