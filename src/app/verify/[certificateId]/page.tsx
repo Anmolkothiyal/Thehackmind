@@ -104,10 +104,10 @@ export default async function CertificateVerifyPage({
                 </span>
               </div>
 
-              <div className="flex justify-between py-2 border-b border-gray-100">
+              {/* <div className="flex justify-between py-2 border-b border-gray-100">
                 <span className="font-medium text-gray-600">Grade:</span>
                 <span className="text-gray-800">95.2%</span>
-              </div>
+              </div> */}
 
               <div className="flex justify-between py-2 border-b border-gray-100">
                 <span className="font-medium text-gray-600">Location:</span>
