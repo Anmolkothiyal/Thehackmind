@@ -50,5 +50,17 @@
     "Verified On": "31/07/2025",
     "Location": "Noida,UP,India",
     "ProjectWork": "Built responsive static websites and enhanced user experience by implementing interactive features with vanilla JavaScript."
+  },
+  {
+    "CertificateID": "INT2025LWGD374",
+    "Name": "Aniket Kumar",
+    "Internship Title": "Data Analyst Internship",
+    "IssuedBy": "Livzone Design",
+    "Start Date": "20th March 2025",
+    "End Date": "20th August 2025",
+    "Skills": ["Python", "SQL", "Data Visualization", "Pandas", "Excel"],
+    "Verified On": "20/08/2025",
+    "Location": "Noida,UP,India",
+    "ProjectWork": "Analyzed large datasets using Python and Pandas, created interactive dashboards with data visualization tools, and automated data processing tasks for business insights."
   }
 ]
