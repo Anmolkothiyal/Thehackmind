@@ -62,5 +62,17 @@
     "Verified On": "20/08/2025",
     "Location": "Noida,UP,India",
     "ProjectWork": "Analyzed large datasets using Python and Pandas, created interactive dashboards with data visualization tools, and automated data processing tasks for business insights."
+  },
+  {
+    "CertificateID": "INT2025LWGD375",
+    "Name": "PULKIT SINGH",
+    "Internship Title": "Frontend Developer Internship",
+    "IssuedBy": "Livzone Design",
+    "Start Date": "12th July 2025",
+    "End Date": "25th August 2025",
+    "Skills": ["HTML", "CSS", "JavaScript", "React.js"],
+    "Verified On": "25/08/2025",
+    "Location": "Noida,UP,India",
+    "ProjectWork": "Developed responsive frontend components using HTML, CSS, JavaScript, and React.js, enhancing user interfaces and improving overall user experience."
   }
 ]
