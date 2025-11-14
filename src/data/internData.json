@@ -74,5 +74,25 @@
     "Verified On": "25/08/2025",
     "Location": "Noida,UP,India",
     "ProjectWork": "Developed responsive frontend components using HTML, CSS, JavaScript, and React.js, enhancing user interfaces and improving overall user experience."
+  },
+  {
+    "CertificateID": "INT2025LWGD376",
+    "Name": "AKSHAT NEGI",
+    "Internship Title": "Python Developer Internship",
+    "IssuedBy": "Livzone Design",
+    "Start Date": "14th August 2025",
+    "End Date": "10th November 2025",
+    "Skills": [
+      "Python",
+      "Django",
+      "Flask",
+      "REST APIs",
+      "SQL",
+      "Pandas",
+      "NumPy"
+    ],
+    "Verified On": "10/11/2025",
+    "Location": "Noida,UP,India",
+    "ProjectWork": "Developed backend services and automation scripts using Python with Django and Flask, designed RESTful APIs, processed data with Pandas and NumPy, and integrated SQL databases to build scalable applications."
   }
 ]
