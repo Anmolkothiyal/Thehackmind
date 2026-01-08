@@ -94,5 +94,42 @@
     "Verified On": "10/11/2025",
     "Location": "Noida,UP,India",
     "ProjectWork": "Developed backend services and automation scripts using Python with Django and Flask, designed RESTful APIs, processed data with Pandas and NumPy, and integrated SQL databases to build scalable applications."
+  },
+  {
+    "CertificateID": "INT2025LWGD377",
+    "Name": "ROHIT PUROHIT",
+    "Internship Title": "Backend Developer Internship",
+    "IssuedBy": "Livzone Design",
+    "Start Date": "14th March 2025",
+    "End Date": "10th July 2025",
+    "Skills": [
+      "Node.js",
+      "Express.js",
+      "Sequelize",
+      "REST APIs",
+      "SQL",
+      "postgreSQL"
+    ],
+    "Verified On": "10/07/2025",
+    "Location": "Noida,UP,India",
+    "ProjectWork": "Built and maintained backend services using Node.js and Express.js, designed RESTful APIs, managed databases with Sequelize and PostgreSQL, and optimized server performance for scalable applications."
+  },
+  {
+    "CertificateID": "INT2025LWGD378",
+    "Name": "Nikhil Rawat",
+    "Internship Title": "Machine Learning and AI Internship",
+    "IssuedBy": "Livzone Design",
+    "Start Date": "1st August 2025",
+    "End Date": "31st December 2025",
+    "Skills": [
+      "Python",
+      "TensorFlow",
+      "Machine Learning",
+      "Deep Learning",
+      "Data Analysis"
+    ],
+    "Verified On": "31/12/2025",
+    "Location": "Noida,UP,India",
+    "ProjectWork": "Developed machine learning models using Python and TensorFlow, implemented AI algorithms for data prediction, and worked on deep learning projects for image recognition and natural language processing."
   }
 ]
