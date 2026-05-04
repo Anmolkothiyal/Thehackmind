@@ -131,5 +131,28 @@
     "Verified On": "31/12/2025",
     "Location": "Noida,UP,India",
     "ProjectWork": "Developed machine learning models using Python and TensorFlow, implemented AI algorithms for data prediction, and worked on deep learning projects for image recognition and natural language processing."
-}
+  },
+  {
+    "CertificateID": "INT2026LWGD379",
+    "Name": "ROHANI KUMARI",
+    "Father Name": "Mr. Nawal kishor Singh",
+    "Date of Birth": "30/12/2003",
+    "Internship Title": "PHP Developer Internship",
+    "IssuedBy": "Livzone Design",
+    "Start Date": "2nd February 2026",
+    "End Date": "30th April 2026",
+    "Contact Number": "9123177728",
+    "Skills": [
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "REST APIs",
+      "HTML/CSS",
+      "JavaScript"
+    ],
+    "Verified On": "30/04/2026",
+    "Location": "Noida,UP,India",
+    "ProjectWork": "Developed and maintained web applications using PHP and Laravel framework, designed RESTful APIs, managed MySQL databases, and created responsive user interfaces using HTML, CSS, and JavaScript.",
+    "VerificationUrl": "https://www.thehackmind.com/verify/INT2026LWGD379"
+  }
 ]
