@@ -154,5 +154,18 @@
     "Location": "Noida,UP,India",
     "ProjectWork": "Developed and maintained web applications using PHP and Laravel framework, designed RESTful APIs, managed MySQL databases, and created responsive user interfaces using HTML, CSS, and JavaScript.",
     "VerificationUrl": "https://www.thehackmind.com/verify/INT2026LWGD379"
+  },
+  {
+    "CertificateID": "INT2025LWGD380",
+    "Name": "Om Bijalwan",
+    "Internship Title": "Machine Learning and AI Internship",
+    "IssuedBy": "Livzone Design",
+    "Start Date": "1st August 2025",
+    "End Date": "31st October 2025",
+    "Skills": ["HTML", "CSS", "JavaScript"],
+    "Verified On": "31/10/2025",
+    "Location": "Noida,UP,India",
+    "ProjectWork": "Built responsive static websites and enhanced user experience by implementing interactive features with vanilla JavaScript.",
+    "VerificationUrl": "https://www.thehackmind.com/verify/INT2025LWGD380"
   }
 ]
